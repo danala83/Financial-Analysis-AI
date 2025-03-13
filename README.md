@@ -14,34 +14,3 @@ Welcome to Agentic Financial AI, an intelligent financial assistant powered by G
 🔹 DuckDuckGo Search API – Providing relevant web results.
 🔹 FastAPI with Playground – Delivering an interactive AI-driven experience.
 
-🚀 Installation & Setup
-1️⃣ Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/Financial-Analysis-AI.git
-cd Financial-Analysis-AI
-2️⃣ Install Dependencies
-sh
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Set Up Environment Variables
-Create a .env file and add:
-
-ini
-Copy
-Edit
-PHI_API_KEY=your_phi_api_key_here
-4️⃣ Run the Application
-sh
-Copy
-Edit
-python main.py
-Your AI-powered finance assistant will be up and running! 🎉
-
-📈 How It Works
-1️⃣ Finance AI Agent 🔍 – Fetches stock prices, company fundamentals, and analyst insights.
-2️⃣ Web Search Agent 🌎 – Searches the web for additional context and data sources.
-3️⃣ Interactive Playground UI 🎮 – Users can easily interact with agents in real time.
-
